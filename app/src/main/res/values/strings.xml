@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cooking Converter</string>
+    <string name="enter_amount_to_convert">Enter amount to convert:</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="convert_from">Convert From:</string>
+    <string name="convert_to">Convert To:</string>
+    <string name="cups">Cups</string>
+    <string name="teaspoons">Teaspoons</string>
+    <string name="tablespoons">Tablespoons</string>
+    <string name="quarts">Quarts</string>
+    <string name="pints">Pints</string>
+    <string name="ounces">Ounces</string>
+    <string name="convert">Convert</string>
+    <string name="conversion_result_0">Conversion Result: 0</string>
+</resources>
